@@ -24,7 +24,7 @@ Es erfolgt eine ausführliche Beschreibung des Tomcat Aufbaus.
 Voraussetzung
 --------------
 
-Server ist aufgesetzt (inkl. Apache) und 
+Server ist aufgesetzt (inkl. Apache) und es wird alles gut werden - so hoffe ich.      
 es existiert bereits mindestens 1 Tomcat auf dem Server.
 
 
@@ -56,8 +56,7 @@ Tomcat Aufbau
 Zum Einlesen der Properties werden die entsprechenden Klassen im feature branch *puppet_site*
 implementiert.    
 
-f abwarten)
-3. Dummy-War-File *dp-basic-v1.3.war* von dpserv.emea.porsche.biz:/home/uli auf dezuepagap099 kopieren.
+1. Dummy-War-File *dp-basic-v1.3.war* von dpserv.emea.porsche.biz:/home/uli auf dezuepagap099 kopieren.
 4. war-File in Verzeichnis */srv/stage* kopieren 
 5. Tomcat turmasterdata neu starten  
 6. Der Tomcat turmasterdata wurde durchgestartet und läuft!        
