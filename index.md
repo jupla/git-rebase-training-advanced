@@ -1,4 +1,4 @@
 # Git-Training
 
-* [git rebase - Grundlagen](README.md)
+* [git rebase - Fortgeschritten](README.md)
 
