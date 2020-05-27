@@ -69,7 +69,7 @@ Ablauf
 
 - Branch "experiment" auschecken [(Hilfe)](cheat-sheet/1110.md)
 - Branch "experiment" aktualisieren [(Hilfe)](cheat-sheet/1120.md)
-- Rebase durchführen [(Hilfe)](cheat-sheet/1130.md)
+- Rebase durchführen [(Hilfe)](cheat-sheet/1135.md)
 - Sichten [(Hilfe)](cheat-sheet/1140.md)
 - Ergebnis "veröffentlichen" [(Hilfe)](cheat-sheet/1150.md)
 
