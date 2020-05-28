@@ -20,7 +20,7 @@ Seitens der "Infrastruktur" gibt es diese Voraussetzungen:
 * Gitg ist installiert [(Hilfe)](cheat-sheet/0900.md)
 * Fork von diesem Repo ist angelegt, Arbeit erfolgt nur an
   diesem Fork
-* Du hast einen lokalen Clone vom Fork [(Hilfe)](cheat-sheet/0900.md)
+* Du hast einen lokalen Clone vom Fork [(Hilfe)](cheat-sheet/0910.md)
 * Dein Arbeitsverzeichnis ist im lokalen Clone
 * Diese Anleitung kann in Firefox gesichtet werden: `firefox index.html`
 
