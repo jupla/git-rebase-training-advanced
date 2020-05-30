@@ -46,7 +46,7 @@ Die Ausgangssituation ist quasi identisch zum Basistraining:
 Zielbild
 --------
 
-![Zielbild](images/final.png)
+![Zielbild](images/rebase-advanced-final.png)
 
 Das Zielbild ist quasi identisch zum Basistraining:
 
@@ -79,7 +79,7 @@ Nachkontrolle
 - Visualisiere die Situation [(Hilfe)](cheat-sheet/1210.md)
 - Kontrolliere, ob "master" und "origin/master" übereinstimmen!
 - Kontrolliere, ob "experiment" und "origin/experiment" übereinstimmen!
-- Vergleiche Dein Bild strukturell mit [images/final.png](images/final.png)
+- Vergleiche Dein Bild strukturell mit [images/rebase-advanced-final.png](images/rebase-advanced-final.png)
 
 Abschluß
 --------
