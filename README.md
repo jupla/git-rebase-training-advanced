@@ -33,7 +33,7 @@ Seitens der Kenntnisse:
 Ausgangsituation
 ----------------
 
-![Ausgangssituation](images/start.png)
+![Ausgangssituation](images/rebase-advanced-start.png)
 
 Die Ausgangssituation ist quasi identisch zum Basistraining:
 
